@@ -7,9 +7,9 @@
 
 ## Getting Started
 [Visual Studio Code](https://code.visualstudio.com/)  
-[Git](https://git-scm.com/downloads)
-[Get Python](https://www.python.org/downloads/)
-[VS Code Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+[Git](https://git-scm.com/downloads)  
+[Get Python](https://www.python.org/downloads/)  
+[VS Code Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)  
 [VS Code Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
 
 ## Python Resources
