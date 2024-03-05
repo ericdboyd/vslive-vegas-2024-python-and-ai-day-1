@@ -5,7 +5,14 @@
 [HarvardX edX Courses](https://www.edx.org/school/harvardx)  
 [CS50 Python Course](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python)  
 
+## Slides
+
+[00 - Introduction](/00_Introduction.pdf)  
+[01 - Getting Started](/01_Get%20Started.pdf)  
+[02 - More Python Overview](/02_More%20Python%20Overview.pdf)  
+
 ## Getting Started
+
 [Visual Studio Code](https://code.visualstudio.com/)  
 [Git](https://git-scm.com/downloads)  
 [Get Python](https://www.python.org/downloads/)  
@@ -32,5 +39,14 @@
 [Python Tutorial (w3schools.com)](https://www.w3schools.com/python/)  
 [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)  
 
+## Demos and Tutorials
+
+[Microsoft Fabric Tutorial - Ingest data into a lakehouse using Python and Apache Spark](https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-ingest-data)  
+
+## Other References and Links
+
+[TIOBE Index](https://www.tiobe.com/tiobe-index)
+
 ## Tools
+
 [JetBrains PyCharm](https://www.jetbrains.com/pycharm/)  
